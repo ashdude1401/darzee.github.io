@@ -42366,8 +42366,8 @@ l=a0*0.02
 k=a0*0.04
 j=a1*0.02
 i=t.p
-k=A.bU(A.a([q,p,A.aX("Connect with us:",e,m?e:n.lc(B.B,A.bv(e,e,e,e).d,B.be),e),A.aM(e,l,e),A.dx(A.a([A.fw(e,A.cG(c,B.L,k),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YQ(),e,e,e,e,e,e),A.aM(e,e,j),A.fw(e,A.cG(b,B.L,k),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YR(),e,e,e,e,e,e),A.aM(e,e,j),A.fw(e,A.cG(a,B.L,k),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YS(),e,e,e,e,e,e)],i),B.x,B.v,B.n)],i),B.Y,B.v,B.n)
-j=A.aM(e,e,r)
+j=A.bU(A.a([q,p,A.aX("Connect with us:",e,m?e:n.lc(B.B,A.bv(e,e,e,e).d,B.be),e),A.aM(e,l,e),A.dx(A.a([A.fw(e,A.cG(c,B.L,k),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YQ(),e,e,e,e,e,e),A.aM(e,e,j),A.fw(e,A.cG(b,B.L,k),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YR(),e,e,e,e,e,e),A.aM(e,e,j),A.fw(e,A.cG(a,B.L,a0*0.038),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YS(),e,e,e,e,e,e)],i),B.x,B.v,B.n)],i),B.Y,B.v,B.n)
+k=A.aM(e,e,r)
 q=A.fw(e,A.aX("About Us",e,m?e:n.lc(B.B,A.bv(e,e,e,e).d,B.be),e),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YT(a2),e,e,e,e,e,e)
 p=A.aM(e,l,e)
 h=A.fw(e,A.aX("FAQs",e,m?e:n.lc(B.B,A.bv(e,e,e,e).d,B.be),e),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YU(a2),e,e,e,e,e,e)
@@ -42380,10 +42380,10 @@ n=A.cc(10)
 l=a1*0.01
 a0*=0.03
 o=o.w
-a0=A.dx(A.a([k,j,q,B.dG,A.bz(e,A.bU(A.a([A.aX("Download Darzee App",e,o==null?e:o.lc(B.B,A.bv(e,e,e,e).d,B.P),e),A.aM(e,a0,e),A.ry(B.bE,A.a([A.cG("asset/images/googlePlayLight.svg",B.aS,s),A.cG("asset/images/appstoreLight.svg",B.aS,s)],i),0)],i),B.x,B.aM,B.n),B.j,e,e,new A.bL(B.h,e,p,n,e,e,B.M),e,e,e,new A.aw(l,a0,l,a0),e,e,e)],i),B.x,B.bU,B.n)}else{q=a0*0.04
+a0=A.dx(A.a([j,k,q,B.dG,A.bz(e,A.bU(A.a([A.aX("Download Darzee App",e,o==null?e:o.lc(B.B,A.bv(e,e,e,e).d,B.P),e),A.aM(e,a0,e),A.ry(B.bE,A.a([A.cG("asset/images/googlePlayLight.svg",B.aS,s),A.cG("asset/images/appstoreLight.svg",B.aS,s)],i),0)],i),B.x,B.aM,B.n),B.j,e,e,new A.bL(B.h,e,p,n,e,e,B.M),e,e,e,new A.aw(l,a0,l,a0),e,e,e)],i),B.x,B.bU,B.n)}else{q=a0*0.04
 p=a1*0.02
 o=t.p
-o=A.dx(A.a([A.cG(d,B.L,a1<=280?a0*0.03:s),B.dG,A.bU(A.a([A.dx(A.a([A.fw(e,A.cG(c,B.L,q),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YX(),e,e,e,e,e,e),A.aM(e,e,p),A.fw(e,A.cG(b,B.L,q),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YY(),e,e,e,e,e,e),A.aM(e,e,p),A.fw(e,A.cG(a,B.L,q),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YZ(),e,e,e,e,e,e)],o),B.x,B.aM,B.n)],o),B.x,B.v,B.n)],o),B.x,B.v,B.n)
+o=A.dx(A.a([A.cG(d,B.L,a1<=280?a0*0.03:s),B.dG,A.bU(A.a([A.dx(A.a([A.fw(e,A.cG(c,B.L,q),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YX(),e,e,e,e,e,e),A.aM(e,e,p),A.fw(e,A.cG(b,B.L,q),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YY(),e,e,e,e,e,e),A.aM(e,e,p),A.fw(e,A.cG(a,B.L,a0*0.038),B.V,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,new A.YZ(),e,e,e,e,e,e)],o),B.x,B.aM,B.n)],o),B.x,B.v,B.n)],o),B.x,B.v,B.n)
 a0=o}return A.bz(e,a0,B.j,e,e,B.y_,e,e,e,new A.aw(r,s,r,s),e,e,a1)},
 $S:13}
 A.YQ.prototype={
