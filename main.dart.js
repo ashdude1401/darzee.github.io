@@ -42058,34 +42058,36 @@ $S:473}
 A.Ec.prototype={
 K(a){return A.fb(new A.Wd(A.bw(a,null,t.w).w.a,A.aY(a).p3))}}
 A.Wd.prototype={
-$2(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d="asset/images/heroImg3.png",c="Fill Form and Win",b=a2.a===B.a6,a=this.a,a0=a.a
-a=a.b
-s=a*0.02
-r=a0*0.02
+$2(a2,a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=null,c="asset/images/heroImg3.png",b="Fill Form and Win",a=a3.a===B.a6,a0=this.a,a1=a0.a
+a0=a0.b
+s=a0*0.02
+r=a1*0.02
 q=A.cc(20)
 p=A.a3(10,77,122,255)
-o=a*0.05
-n=a0*0.05
-m=b?a0*0.04:0
+o=a0*0.05
+n=a1*0.05
+m=a?a1*0.04:0
 l=t.p
-k=b?A.dx(A.a([B.Df,B.dG,A.n3(A.k6(d,B.aR,e,e),1)],l),B.x,B.bU,B.n):A.bU(A.a([B.kf,A.aM(e,s,e),A.k6(d,B.aR,e,e)],l),B.x,B.v,B.n)
-n=A.bz(e,k,B.j,e,e,new A.bL(p,e,e,q,e,e,B.M),e,e,new A.aw(m,0,m,0),new A.aw(n,o,n,0),e,e,e)
-m=A.aM(e,s,e)
+k=a?A.dx(A.a([B.Df,B.dG,A.n3(A.k6(c,B.aR,d,d),1)],l),B.x,B.bU,B.n):A.bU(A.a([B.kf,A.aM(d,s,d),A.k6(c,B.aR,d,d)],l),B.x,B.v,B.n)
+n=A.bz(d,k,B.j,d,d,new A.bL(p,d,d,q,d,d,B.M),d,d,new A.aw(m,0,m,0),new A.aw(n,o,n,0),d,d,d)
+m=A.aM(d,s,d)
 q=A.ry(B.RN,B.EY,r)
-p=A.aM(e,s,e)
+p=A.aM(d,s,d)
 k=this.b
 j=k.z
-if(b){i=a0*0.008
-h=a*0.03
-h=A.XB(e,e,e,e,e,e,e,e,e,e,e,e,new A.aw(i,h,i,h),e,new A.cg(A.cc(8),B.q),e,e,e,e)
-j=A.ry(B.bE,A.a([A.F1(A.aX(c,e,j==null?e:j.c5(B.h,B.T),e),new A.Wb(),h)],l),r)}else{i=A.XB(e,e,e,e,e,e,e,e,e,e,e,e,new A.aw(0,s,0,s),e,new A.cg(A.cc(8),B.q),e,e,e,e)
-j=A.bU(A.a([A.aM(A.F1(A.aX(c,e,j==null?e:j.c5(B.h,B.T),e),new A.Wc(),i),e,a0*0.5)],l),B.x,B.v,B.n)}i=A.aM(e,s,e)
+if(a){i=a1*0.008
+h=a0*0.03
+h=A.XB(d,d,d,d,d,d,d,d,d,d,d,d,new A.aw(i,h,i,h),d,new A.cg(A.cc(8),B.q),d,d,d,d)
+j=A.ry(B.bE,A.a([A.F1(A.aX(b,d,j==null?d:j.c5(B.h,B.T),d),new A.Wb(),h)],l),r)}else{i=A.XB(d,d,d,d,d,d,d,d,d,d,d,d,new A.aw(0,s,0,s),d,new A.cg(A.cc(8),B.q),d,d,d,d)
+j=A.bU(A.a([A.aM(A.F1(A.aX(b,d,j==null?d:j.c5(B.h,B.T),d),new A.Wc(),i),d,a1*0.5)],l),B.x,B.v,B.n)}i=A.aM(d,s,d)
 k=k.Q
-k=A.aX(u.X,e,k==null?e:k.c5(A.a3(204,50,50,50),B.P),e)
-h=A.aM(e,a*0.04,e)
-g=A.cG("asset/images/googleplay.svg",B.L,b?o:a*0.055)
-f=A.aM(e,e,b?a0*0.01:a0*0.03)
-return A.bz(e,A.bU(A.a([n,m,q,p,j,i,k,h,A.dx(A.a([g,f,A.cG("asset/images/appStore.svg",B.L,b?o:a*0.055)],l),B.x,B.aY,B.n)],l),B.x,B.v,B.n),B.j,e,e,e,e,e,e,new A.aw(r,s,r,s),e,e,a0)},
+k=A.aX(u.X,d,k==null?d:k.c5(A.a3(204,50,50,50),B.P),d)
+a0*=0.04
+h=A.aM(d,a0,d)
+g=a1<=280
+f=A.cG("asset/images/googleplay.svg",B.L,g?a0:o)
+e=A.aM(d,d,a?a1*0.01:a1*0.03)
+return A.bz(d,A.bU(A.a([n,m,q,p,j,i,k,h,A.dx(A.a([f,e,A.cG("asset/images/appStore.svg",B.L,g?a0:o)],l),B.x,B.aY,B.n)],l),B.x,B.v,B.n),B.j,d,d,d,d,d,d,new A.aw(r,s,r,s),d,d,a1)},
 $S:13}
 A.Wb.prototype={
 $0(){var s=window
@@ -42338,10 +42340,10 @@ o=this.b
 n=o.c
 n=A.aX(f,g,n==null?g:n.a2y(B.an,A.bv(g,g,g,g).d,0.6,2),B.c0)
 m=a0<=280
-l=A.aM(g,m?a*0.01:a*0.05,g)
+l=A.aM(g,m?a*0.01:a0*0.01,g)
 o=o.y
 o=A.aX(e,!0,o==null?g:o.c5(B.A3,B.Z),B.c0)
-k=A.aM(g,m?a*0.02:a*0.05,g)
+k=A.aM(g,m?a0*0.03:a0*0.08,g)
 j=A.cG(d,B.aR,m?a*0.04:a*0.05)
 i=A.aM(g,g,a0*0.01)
 h=t.p
