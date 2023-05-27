@@ -41881,7 +41881,7 @@ return A.bU(A.a([A.aX(u.X,s,q==null?s:q.c5(A.a3(204,50,50,50),B.P),s),A.aM(s,p*0
 A.H1.prototype={
 K(a){var s=null,r=A.bv(s,s,s,s),q=A.XB(s,s,B.an,s,s,s,s,s,s,B.h,s,s,B.D9,s,new A.cg(A.cc(8),B.q),s,s,s,s),p=A.akO(s,s,B.X,s,s,s,B.eC).Ku(A.a3(B.d.aJ(25.5),50,50,50),B.X,B.an,B.B),o=A.aio(s,B.X,s,s,s,s,s,s,s).p3,n=A.bv(s,s,s,o.a),m=A.bv(s,s,s,o.b),l=A.bv(s,s,s,o.c),k=A.bv(s,s,s,o.d),j=A.bv(s,s,s,o.e),i=A.bv(s,s,s,o.f),h=A.bv(s,s,s,o.r),g=A.bv(s,s,s,o.w),f=A.bv(s,s,s,o.x)
 f=A.aio(B.wZ,s,B.h,B.h,p,new A.pK(q),r.d,A.a7q(A.bv(s,s,s,o.y),A.bv(s,s,s,o.z),A.bv(s,s,s,o.Q),n,m,l,k,j,i,A.bv(s,s,s,o.as),A.bv(s,s,s,o.at),A.bv(s,s,s,o.ax),h,g,f).Ks(B.ag,B.ag,B.ag,B.ag,B.ag,B.ag,B.ag,B.ag,B.ag,B.ag,B.ag,B.ag,B.ag,B.ag,B.ag),s)
-return new A.w1(B.IT,A.am(["/home-screen",new A.a1m(),"/about_us",new A.a1n(),"/faq-screen",new A.a1o(),"/privacy-policy",new A.a1p(),"/terms-condition",new A.a1q()],t.N,t.Ab),"Flutter Demo",f,!1,s)}}
+return new A.w1(B.IT,A.am(["/home-screen",new A.a1m(),"/about_us",new A.a1n(),"/faq-screen",new A.a1o(),"/privacy-policy",new A.a1p(),"/terms-condition",new A.a1q()],t.N,t.Ab),"Darzee App",f,!1,s)}}
 A.a1m.prototype={
 $1(a){return B.kO},
 $S:427}
